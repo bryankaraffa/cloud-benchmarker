@@ -1,1 +1,1 @@
-# cloud-benchmark-cloudapp
+# cloud-benchmarker
